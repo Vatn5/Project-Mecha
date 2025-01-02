@@ -1,0 +1,48 @@
+# Build artefacts
+Binaries/
+Intermediate/
+Saved/
+
+# Compiled source files
+*.pdb
+*.exe
+*.dll
+*.obj
+*.log
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Precompiled headers
+*.pch
+
+# Auto-generated files
+*.aps
+*.ncb
+*.user
+*.opensdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.DS_Store
+
+# Thumbnail cache files
+Thumbs.db
+
+# Built data for iOS and Android
+Build/IOS/Development/
+Build/Android/Development/
+
+# Unreal Engine specific
+*.generated.*
+DerivedDataCache/
+*.vs/
+.vscode/
+
+# Logs and other runtime data
+*.log
+*.tmp
+*.cache
+*.ide.*
